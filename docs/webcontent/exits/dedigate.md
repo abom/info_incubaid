@@ -1,4 +1,4 @@
-![dedigate logo](.../img/dedigate_logo.gif)
+![dedigate logo](.../img/dedigate_logo.png)
 
 # Founded in 2000
 
