@@ -1,4 +1,4 @@
-![jimber logo](.../img/jimber.svg)
+![jimber logo](.../img/jimber.jpg)
 
 # Founded in 2018
 
