@@ -1,4 +1,4 @@
-!(awingu logo)[.../img/awingu_logo.png]
+![awingu logo](.../img/awingu_logo.png)
 
 # Founded in 2011
 
