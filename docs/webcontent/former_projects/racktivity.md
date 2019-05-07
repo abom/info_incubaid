@@ -1,4 +1,4 @@
-[racktivity logo](.../img/racktivity_logo.png)
+![racktivity logo](.../img/racktivity_logo.png)
 
 # Founded in 2009, now part of GreenITGlobe
 
