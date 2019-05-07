@@ -15,4 +15,4 @@ At Incubaid and Green IT Globe we believe in our privacy rights. Privacy is a hu
 ## Technology
 Itsyou.online is using the blockchain technology from Rivine.Io.
 
-(www.itsyou.online)[https://www.itsyou.online]
+[www.itsyou.online](https://www.itsyou.online)
