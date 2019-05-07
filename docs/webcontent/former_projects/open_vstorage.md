@@ -1,4 +1,4 @@
-![open vstorage logo](.../img/open_vstorage_logo.jpg)
+![open vstorage logo](.../img/open_vstorage_logo.png)
 
 # Founded in 2008
 
