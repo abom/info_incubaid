@@ -1,4 +1,4 @@
-!(Rogerthat logo)[.../img/rogerthat_logo.png]
+![Rogerthat logo](.../img/rogerthat_logo.png)
 
 # Founded in 2011, Now part of GIG.tech
 
