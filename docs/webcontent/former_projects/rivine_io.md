@@ -1,4 +1,4 @@
-!(rivine.io logo)[.../img/rivine_io_logo.png]
+![rivine.io logo](.../img/rivine_io_logo.png)
 
 # Founded in 2016, Now part of GIG.tech
 
